@@ -7,7 +7,12 @@ class Approov < Formula
   bottle :unneeded
 
   def install
-    bin.install "approov"
+    on_linux do
+      bin.install "Linux/approov"
+    end
+    on_macos do
+      bin.install "MacOS/approov"
+    end
   end
 
   test do
