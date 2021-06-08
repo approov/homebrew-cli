@@ -1,2 +1,2 @@
 # homebrew-cli
-Homebrew Approov CLI binaries
+Homebrew Approov CLI binaries.
