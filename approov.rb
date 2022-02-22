@@ -1,9 +1,9 @@
 class Approov < Formula
   desc "Approov CLI tool"
-  tag  = ""
+  tag  = "3.0.0"
   homepage "https://github.com/approov/cli"
   url "https://github.com/approov/homebrew-cli/releases/download/" + tag + "/approov-" + tag + ".tar.gz"
-  sha256  "8dd92a3c5b3f0dd328494f3f23c33de580526fde95eecd05ecefe8eda8152777"
+  sha256  "64979951bd45c57e3118b039fd92e3377199ac7db9361c68cb035a1ce11cc893"
 
   bottle :unneeded
 
