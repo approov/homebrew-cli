@@ -3,7 +3,7 @@ class Approov < Formula
   tag  = "3.1.0"
   homepage "https://github.com/approov/cli"
   url "https://github.com/approov/homebrew-cli/releases/download/" + tag + "/approov-" + tag + ".tar.gz"
-  sha256  "02f20d10aed956460b7cd16f4a29b558318ada3375470b8c110e001153749db2"
+  sha256  "3069f73759ba15eb8069d7f1e511bc6ba1d45f901f7c0950bc8ded282f6fa5c6"
 
   #bottle :unneeded
 
