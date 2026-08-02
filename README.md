@@ -1,6 +1,8 @@
 # Approov CLI from Homebrew
 
-This repo holds the Approov CLI binaries for deployment to Homebrew
+This repo holds the Homebrew **formula** for the Approov CLI. The binaries themselves are
+published in [approov/approov-cli](https://github.com/approov/approov-cli/releases) alongside
+the Windows and Linux packages, and are signed with checksums and a detached PGP signature.
 
 To install use:
 
@@ -9,7 +11,10 @@ brew update
 brew install approov/cli/approov
 ```
 
-The latest binaries can also be downloaded directly from https://approov.io/downloads/approovcli.zip
+Direct downloads for every platform, with verification instructions, are at
+https://github.com/approov/approov-cli/releases/latest
+
+Questions or problems: support@approov.io
 
 # Approov CLI  
 
